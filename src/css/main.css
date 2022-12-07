@@ -1,0 +1,13 @@
+* {
+  box-sizing: border-box;
+}
+:root {
+  --bgCanvas: #3a506b;
+  --h1: #b6b0b6;
+  --description-bg: #b6b0b6;
+  --description-color-text: #33465c;
+  --location-color-text: #88a0bf;
+}
+body {
+  /* height: -webkit-fill-available; */
+}
